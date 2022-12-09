@@ -10,12 +10,7 @@ public partial class MainPage : ContentPage{
     string mathOperator;
     double firstNumber, secondNumber;
     string decimalFormat = "N0";
-    private void OnCounterClicked(object sender, EventArgs e){
-        count++;
-        if (count != 0)
-            CounterBtn.Text = $"   Anil , srinivas, Harish";
-        Console.WriteLine(CounterBtn.Text);
-    }
+   
     void OnSelectNumber(object sender, EventArgs e){
         Button button = (Button)sender;
         string pressed = button.Text;
