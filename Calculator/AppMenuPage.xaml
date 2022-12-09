@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Calculator.FlyoutMenuPage"
              xmlns:local="clr-namespace:Calculator"
-             Title="FlyoutMenuPage" Background="{DynamicResource MidGrayBrush}">
+             Title="FlyoutMenuPage" Background="{DynamicResource Yellow300Accent}">
 
     <CollectionView x:Name="collectionView"
                     x:FieldModifier="public"
