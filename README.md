@@ -1,7 +1,27 @@
 # MAUICalculator
-I have developed an smart calculator which performs multiple operations,
 
-*BOTLA ANIL(WSUID:S678N657) [github id:ANILBOTLA]
+
+1.We have Created another page using grid layout to include the following extra 4 buttons along with the
+original 20 buttons:
+• Square root
+• Mod
+• Left parenthesis
+• Right parenthesis
+2. We Created an “About” page.And included each team member’s name in this page.
+3. Separated styles from UI elements as app resources. For example, the following actions need to be
+done:
+• Changed background color, fore ground color on both pages so boundaries of buttons should be
+more obvious.
+• Prepared to support following color schemes: light, dark, green, pink.
+4. Use flyout to provide navigations between pages, along with menu items as listed:
+• Basic page (default calculator page you received from sample, with your own color settings
+mentioned in the previous requirement.)
+
+We have developed an smart calculator which performs multiple operations,
+
+*BOTLA ANIL(WSUID:S678N657)[github id:ANILBOTLA]
+SrinivasaReddy Avuluri(https://github.com/SrinivasareddyAvuluri/MAUICalculator)
+HarishReddy Nadavuluri(https://github.com/HarishReddyNadavaluru/MAUICalculator)
 Youtube Link:-https://youtu.be/a3EJOZM1JWQ
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/52151612/206629319-839bbca2-8683-4efb-9a2b-7d800b27943a.png)
